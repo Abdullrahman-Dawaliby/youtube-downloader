@@ -27,6 +27,12 @@ So Simple YouTube Downloader Programmed In Python
  ```
  python3 ytdl.py
  ```
+ You Will Get Output Like This:
+ ```
+ ➜  ~ python3 ytdl.py    
+usage: ytdl.py [-h] [-v] url
+ytdl.py: error: the following arguments are required: url
+ ```
  
  This Is An Example Of Downloading Song From YouTube :
  ```
